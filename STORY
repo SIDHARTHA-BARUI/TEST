@@ -1,4 +1,5 @@
 NEW STORY OF PYTHON
 WHY NOT JAVA #JAVA
 C++ IS THE BEST APPROACH #C++
-#include stdio.h
+#include stdio.hi want
+want python only
